@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['head', 'helmet', 'hi-viz helmet', 'hi-viz vest', 'person']
+
+roboflow:
+  workspace: universe-datasets
+  project: hard-hat-universe-0dy7t
+  version: 26
+  license: Public Domain
+  url: https://universe.roboflow.com/universe-datasets/hard-hat-universe-0dy7t/dataset/26
