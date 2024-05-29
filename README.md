@@ -34,7 +34,7 @@ After training the model, it was rigorously evaluated on the test dataset to ass
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/construction-safety-object-detection.git
+git clone https://github.com/v26199/construction-safety-object-detection.git
 cd construction-safety-object-detection
 ```
 
